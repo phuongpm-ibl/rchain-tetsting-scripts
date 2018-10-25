@@ -1,1 +1,1 @@
-# rchain-tetsting-scripts
+# rchain-testting-scripts
